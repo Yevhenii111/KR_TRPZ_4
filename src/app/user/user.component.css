@@ -1,0 +1,16 @@
+.card {
+  transition: 0.3s all;
+}
+
+.card-title {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.card-content {
+  height: 120px;
+}
+
+.checked {
+  transform: scale(1.03);
+}
